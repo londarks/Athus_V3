@@ -1,0 +1,64 @@
+[Tripcodes]
+admin0 = "ATHUSo12kM"
+admin1 = "/RmnnECAuo"
+admin2 = "d4DIFESAB2"
+admin3 = "kat80je3Qo"
+admin4 = "jSOyUrIPpE"
+
+[Blacklist]
+user0 = "Vash/ZOZZE"
+
+[Botconfig]
+name = "Athus"
+icon = "tanaka"
+room = "https://drrr.com/room/?id=UP4d3nYsyp"
+cookie = "athus/cache/cookie/athus.cookie"
+
+[timeSpawn]
+time = 5
+
+[commands]
+command = [
+  "/help",
+  "/admin",
+  "/play",
+  "/pause",
+  "/skip",
+  "/queue",
+  "/list ban",
+  "/clear Ban",
+  "/music",
+  "/log",
+  "/stop trans",
+  "/thanos",
+  "/sera",
+  "/report",
+  "/trans",
+  "/gif",
+  "/add",
+  "/t",
+  "/set",
+  "/kick",
+  "/ban",
+  "/unban",
+  "/block",
+  "/enable",
+  "/room name",
+  "/room info",
+  "/exit",
+  "/host",
+  "/replay",
+  "/troll",
+  "/default",
+  "/music desable",
+  "/music enable",
+  "/say",
+  "/send",
+  "/blacklist",
+  "/dolar",
+  "/rewind",
+  "/rr"
+]
+
+
+
